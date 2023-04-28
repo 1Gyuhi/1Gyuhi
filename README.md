@@ -1,5 +1,5 @@
 # 💫 About Me:
-tengo 16 años y estoy aprendiendo a programar. Actualmente tengo conocimientos en HTML, CSS y muy poco de JavaScript, estoy trabajando para mejorar mis habilidades y aprender mucho mas en lo que es el desarrollo web. Me gusta crear proyectos simples y útiles utilizando estos lenguajes para reforzar lo que aprendo y así poder avanzar a nuevos proyectos. Valoro cualquier comentario o sugerencia que puedan ofrecer para ayudarme a mejorar.<br>
+Me llamo Mateo, tengo 16 años y estoy aprendiendo a programar. Actualmente tengo conocimientos en HTML, CSS y muy poco de JavaScript, estoy trabajando para mejorar mis habilidades y aprender mucho mas en lo que es el desarrollo web. Me gusta crear proyectos simples y útiles utilizando estos lenguajes para reforzar lo que aprendo y así poder avanzar a nuevos proyectos. Valoro cualquier comentario o sugerencia que puedan ofrecer para ayudarme a mejorar.<br>
 
 
 ## 🌐 Socials:
