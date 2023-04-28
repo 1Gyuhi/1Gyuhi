@@ -1,15 +1,19 @@
-<h1 align="center">Me llamo Mateo</h1>
-<h3 align="center">tengo 16 años y estoy aprendiendo a programar. Actualmente tengo conocimientos en HTML, CSS y muy poco de JavaScript, estoy trabajando para mejorar mis habilidades y aprender mucho mas en lo que es el desarrollo web. Me gusta crear proyectos simples y útiles utilizando estos lenguajes para reforzar lo que aprendo y así poder avanzar a nuevos proyectos. Valoro cualquier comentario o sugerencia que puedan ofrecer para ayudarme a mejorar.</h3>
+# 💫 About Me:
+tengo 16 años y estoy aprendiendo a programar. Actualmente tengo conocimientos en HTML, CSS y muy poco de JavaScript, estoy trabajando para mejorar mis habilidades y aprender mucho mas en lo que es el desarrollo web. Me gusta crear proyectos simples y útiles utilizando estos lenguajes para reforzar lo que aprendo y así poder avanzar a nuevos proyectos. Valoro cualquier comentario o sugerencia que puedan ofrecer para ayudarme a mejorar.<br>
 
-<p align="left"> <a href="https ://twitter.com/1gyuhi" target="blank"><img src="https://img.shields.io/twitter/follow/1gyuhi?logo=twitter&style=for-the-badge" alt="1gyuhi " /></a> </p>
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://twitter.com/1gyuhi" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1gyuhi" altura="10px" ancho="10px" /></a>
-<a href="https://www.youtube.com/c/@mateo.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/ github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mateo.x" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/1Gyuhi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@1Gyuhi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Mateo.x) 
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" ancho="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" objetivo ="_en blanco" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ > </a> </p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1Gyuhi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1gyuhi&show_icons=true&locale=en&layout=compact" alt="1gyuhi" /> </p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@1Gyuhi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+---
+[![](https://visitcount.itsvg.in/api?id=1Gyuhi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
